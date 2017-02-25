@@ -12,6 +12,9 @@ First Header  | Second Header
 Content Cell  | Content Cell
 Content Cell  | Content Cell
 
+An example of using inline html:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1N10MlM_2xQ" frameborder="0" allowfullscreen></iframe>
+
 Here's an example of an image, which is included using Markdown:
 
 ![Geometric pattern with fading gradient](/img/sample_feature_img_2.png)

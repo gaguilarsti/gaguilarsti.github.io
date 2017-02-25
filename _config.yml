@@ -6,23 +6,24 @@ url: "http:www.gama-aguilar.com" # the base hostname & protocol for your site
 theme_settings:
   # Meta
   title: Gama Aguilar
-  avatar: avatar.png
+  avatar: avatar.jpg
   gravatar: # Email MD5 hash
-  description: "A website about a guy that may or may not be interesting to you" # used by search engines
+  description: "Gama Aguilar's portfolio and blog site. Enjoy." # used by search engines
 
   # Header and footer text
   header_text: >
-     <h1>Technologist, Developer, Driver, and Dad.</h1>
-  header_text_feature_image:
+     <h1>Entrepreneur + Web Dev</h1>
+     <p>HTML CSS Javascript JQuery Angular Ruby</p>
+  header_text_feature_image: img/main-image-background.jpg
   footer_text: >
-   Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
+   Thanks for visiting!
 
   # Icons
   rss: false
   email_address: gama-aguilar@hotmail.com # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
-  dribbble: "TBD"
+  dribbble: 
   facebook: "gamagui"
   flickr:
   github: "gaguilarsti"
@@ -35,7 +36,7 @@ theme_settings:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: "trackattackapp"
+  twitter: "raceronrails"
   wordpress:
   youtube: "trackattackapp"
 

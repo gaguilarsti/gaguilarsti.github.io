@@ -3,7 +3,7 @@ layout: post
 title: Track Attack Analytics
 feature-img: "img/sample_feature_img_2.png"
 thumbnail-path: "img/data_acquisition_thumbnail.jpg"
-short-description: Making squiggly lines make sense... with video.
+short-description: Making sense of squiggly lines.
 
 ---
 ## The problem
