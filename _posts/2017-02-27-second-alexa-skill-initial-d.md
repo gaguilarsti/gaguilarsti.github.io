@@ -10,7 +10,7 @@ Essentially, the user asks Alexa to provide (through a variety of different utte
 
 The template provided by Amazon was once again, super straight forward and we used an Amazon Web Services Lambda.  Aside from setting up the lambda and the skill on the Amazon developer portals, the only work was to decide what topic to focus on, gather facts and edit the appropriate content files.
 
-So what topic did I pick?
+So what topic did I pick? 
 
 ### Initial D Geek
 
@@ -33,9 +33,14 @@ That's right, enable the Alexa Initial D skill for your Amazon Echo.  Compensate
 With Initial D Geek, you can wake up each day and ask Alexa for an awesome fact to drop knowledge on your co-workers, who are also confused as to why you started growing bangs.  Here are some examples of what Initial D Geek will school you on:
 1. Redacted to not give away the secrets (which are actually facts)
 2. Also redacted
-3. Fact so good, we couldn't not redacted (yes, that is a double negative)
+3. Fact so good, we couldn't not redact them (yes, that is a double negative)
 
 ![](https://media3.giphy.com/media/qYUfBeJXRxBu0/giphy.gif)
 
 Enable on your Amazon Echo, today!
+
+**Update March 2, 2017:** Looks like I made a mistake in the submission and checked the box that this skill was 'targetted towards children'.  The skill was not only rejected, but explicitly told to not re-submit this skill again.  I'm not exactly sure why the nature of the response but that's ok.  The point of building the skill was to learn the development process, not necessarily to publish and support a production product.  
+
+![Amazon Rejection Letter](/img/amazon-skill-rejection-email.png)
+
 
